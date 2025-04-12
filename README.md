@@ -65,17 +65,27 @@ Me chamo Thiago Anderson, tenho 22 anos e sou natural de Pernambuco e atualmente
 
 ## 📊 Estatísticas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoAnderson&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnderson&layout=compact&theme=dark)
+  <!-- GitHub Stats com <picture> -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoAnderson&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoAnderson&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThiagoAnderson&show_icons=true" />
+  </picture>
+
+  <!-- Top Linguagens -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnderson&layout=compact&theme=dark"
+    alt="TOP Linguagens"
+  />
+</div>
+
+
 
