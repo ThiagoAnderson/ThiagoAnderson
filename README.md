@@ -77,5 +77,5 @@ Me chamo Thiago Anderson, tenho 22 anos e sou natural de Pernambuco e atualmente
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnderson&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnderson&layout=compact&theme=dark)
 
