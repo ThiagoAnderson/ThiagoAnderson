@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Thiago Anderson, tenho 22 anos e sou natural de Pernambuco e atualmente moro em Natal, Rio grande do Norte. Atualmente curso Ciências e Tecnologia na UFRN.
+Me chamo Thiago Anderson, tenho 23 anos e sou natural de Pernambuco e atualmente moro em Natal, Rio grande do Norte. Atualmente curso Ciências e Tecnologia na UFRN.
 
 
 ---
